@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sholcombe2003
+- 👋 Hi, I’m @Sholcombe2003 I attend VCU for Computer Science.
 - 👀 I’m interested in AI and automation.
 - 🌱 I’m currently learning more java and how to implement it into projects I work on aside from school.
 - 📫 How to reach me holcombesteven84@gmail.com
